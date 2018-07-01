@@ -3,15 +3,16 @@ Section 1
 	Years of Experience: 8 years 3 months
 
 Section 2: 
-	Build IDE: Eclipse Java EE IDE (Version: Oxygen.3a Release (4.7.3a))
+	Build IDE: Eclipse Java EE IDE (Version: Version: Mars.2 Release (4.5.2)
+Build id: 20160218-0600)
 	JDK Version: java version "1.8.0_162"
 
 Section 3 
 a)	Sonar lint / EclEmma scan Snapshot 
+
 b)	Final Output Snapshot 
          AssemblMachineDetails [numberOfAssemberedMachine=5, numberOfTotalTime=120]
 c)	Junit Coverage Snapshot
-Note: (You can link directly to the raw version of an image from your image folder. Hence from section 1.1 if your GIT Link is : https://github.com/nescafe2018/intrvw_sq , then you can have the following text in your readme ![SonarLint] (https://github.com/nescafe2018/intrvw_sq/<Link of you image) )
 
 Section 4 
 Licensing 
